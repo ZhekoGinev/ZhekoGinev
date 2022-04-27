@@ -10,5 +10,6 @@
 
 <img src="https://github.com/ZhekoGinev/media/blob/main/images/Python.svg.png" height=75><img src="https://github.com/ZhekoGinev/media/blob/main/images/django-icon-0.png" height=70><img src="https://github.com/ZhekoGinev/media/blob/main/images/Database-mysql.svg.png" height=75>
 <br>
+<br>
 
 ![Zheko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhekoGinev&show_icons=true&theme=dracula)
