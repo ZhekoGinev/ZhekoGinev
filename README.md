@@ -11,7 +11,7 @@
 
 [<img src="https://github.com/ZhekoGinev/media/blob/main/images/python.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/django.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/mysql.png" height=75>](#)
 <br>
-* 🗄️ I can also work with __HTML5__, __CSS3__, __JS (ES6)__ and __Bootstrap5__:
+* 🗄️ I can also write basic stuff in __HTML5__, __CSS3__, __JS (ES6)__ and __Bootstrap5__:
 
 [<img src="https://github.com/ZhekoGinev/media/blob/main/images/html5.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/css3.png" height=75>](#)  [<img src="https://github.com/ZhekoGinev/media/blob/main/images/js.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/bootstrap5.png" height=75>](#)
 <br>
