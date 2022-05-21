@@ -16,4 +16,4 @@
 [<img src="https://github.com/ZhekoGinev/media/blob/main/images/html5.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/css3.png" height=75>](#)  [<img src="https://github.com/ZhekoGinev/media/blob/main/images/js.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/bootstrap5.png" height=75>](#)
 <br><br><br><br><br>
 Stats are small but baby will grow<br>
-![Zheko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhekoGinev&show_icons=true&theme=dracula&hide=contribs,prs,issues)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhekoGinev)](https://github.com/ZhekoGinev/github-readme-stats)
+![Zheko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhekoGinev&show_icons=true&theme=dracula&hide=contribs,prs,issues)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhekoGinev)](#)
