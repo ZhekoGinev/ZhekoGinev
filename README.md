@@ -2,7 +2,7 @@
 
 🔥 I’m interested in back-end development, data science and true AI.
 
-🖥️ I use 🐧 __Linux__ or 🪟 __Windows__ depending on what's best for the job.
+🖥🐧🪟
 
 🛠️ I’m currently focused on Web Development with Django.
 
