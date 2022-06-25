@@ -7,7 +7,7 @@
 ---
 🗄️ I work mainly with __Linux__, __Python__, __Django(+REST)__ and __SQL__:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/python.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/django.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/media/blob/main/images/mysql.png" height=75>](#)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=75>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/python.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/django.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/mysql.png" height=75>](#)
 <br>
 
 ---
