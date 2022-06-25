@@ -1,8 +1,13 @@
-👋 Hey, I’m Zheko. A self-taught software developer.
+# <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png" height=50> Hey, I’m Zheko <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-80x96.png" height=50><br>
+[![Status](https://img.shields.io/badge/WORK_STATUS-OPEN-<COLOR>.svg)](https://shields.io/) ![Visitors](https://api.visitorbadge.io/api/visitors?path=zhekoginev&label=visitors&labelColor=%23595959&countColor=%2347c119&style=flat)
 
-🔥 I’m interested in back-end development, data science and AI.
+👋 I'm a self-taught software developer.
 
-🛠️ I’m currently focused on Back-end Web Development.
+🔥 Interested in back-end development, data science and AI.
+
+🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=20>](https://www.bostondynamics.com/)
+
+🛠️ I’m currently focused on Back-end Web Development and strengthening my fundamentals in OOP and DSA.
 
 ---
 🗄️ I work mainly with __Linux__, __Python__, __Django(+REST)__ and __SQL__:
@@ -19,3 +24,6 @@
 <br><br><br>
 Stats are small but baby will grow<br>
 ![Zheko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhekoGinev&show_icons=true&theme=dracula&hide=contribs,prs,issues)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhekoGinev)](#)
+
+
+https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png
