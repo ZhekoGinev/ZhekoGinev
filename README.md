@@ -1,4 +1,4 @@
-# <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png" height=50> Hey, I’m Zheko <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-80x96.png" height=50><br>
+## <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png" height=50> Hey, I’m Zheko <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-80x96.png" height=50><br>
 [![Status](https://img.shields.io/badge/WORK_STATUS-OPEN-<COLOR>.svg)](https://shields.io/) ![Visitors](https://api.visitorbadge.io/api/visitors?path=zhekoginev&label=visitors&labelColor=%23595959&countColor=%2347c119&style=flat)
 
 👋 I'm a self-taught software developer.
