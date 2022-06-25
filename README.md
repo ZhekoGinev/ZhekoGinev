@@ -5,7 +5,7 @@
 
 🔥 Interested in back-end development, data science and AI.
 
-🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=20>](https://www.bostondynamics.com/)
+🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=17>](https://www.bostondynamics.com/)
 
 🛠️ I’m currently focused on Back-end Web Development and strengthening my fundamentals in OOP and DSA.<br><br>
 
