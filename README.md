@@ -28,5 +28,3 @@
 Stats are small but baby will grow<br>
 ![Zheko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhekoGinev&show_icons=true&theme=dracula&hide=contribs,prs,issues)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhekoGinev)](#)
 
-
-https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png
