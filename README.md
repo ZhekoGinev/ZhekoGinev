@@ -7,7 +7,10 @@
 
 🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=20>](https://www.bostondynamics.com/)
 
-🛠️ I’m currently focused on Back-end Web Development and strengthening my fundamentals in OOP and DSA.
+🛠️ I’m currently focused on Back-end Web Development and strengthening my fundamentals in OOP and DSA.<br><br>
+
+| __Let me know if I can help you__ | __@__ | [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Zvezdobroeca/) | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/zhekoginev/) | [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jginev@gmail.com)|
+|-|-|-|-|-|
 
 ---
 🗄️ I work mainly with __Linux__, __Python__, __Django(+REST)__ and __SQL__:
