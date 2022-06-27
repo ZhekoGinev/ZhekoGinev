@@ -16,13 +16,13 @@
 ---
 🗄️ I work mainly with __Linux__, __Python__, __Django(+REST)__ and __SQL__:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=75>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/python.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/django.png" height=75>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/mysql.png" height=75>](#)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height=50>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/python.png" height=50>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/django.png" height=50>](#) [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/mysql.png" height=50>](#)
 <br>
 
 ---
 🗄️ but I also write basic stuff with __HTML5__, __CSS3__, __JS__ and __Bootstrap__:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height=75>](#) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height=75>](#)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height=75>](#) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height=75>](#)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height=50>](#) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height=50>](#)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height=50>](#) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height=50>](#)
 
 ---
 <br><br><br>
