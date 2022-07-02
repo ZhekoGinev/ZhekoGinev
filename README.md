@@ -1,4 +1,4 @@
-## <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png" height=0> Hey, I’m Zheko <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-80x96.png" height=0><br>
+## <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png" height=0> Hey, I’m Zheko <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-80x96.png" height=50><br>
 
 👋 I'm a self-taught software developer.
 
