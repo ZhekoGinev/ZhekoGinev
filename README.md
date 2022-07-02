@@ -1,5 +1,4 @@
 ## <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-mirror.png" height=0> Hey, I’m Zheko <img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/robo-peak-80x96.png" height=0><br>
-[![Status](https://img.shields.io/badge/WORK_STATUS-OPEN-<COLOR>.svg)](https://shields.io/) ![Visitors](https://api.visitorbadge.io/api/visitors?path=zhekoginev&label=visitors&labelColor=%23595959&countColor=%2347c119&style=flat)
 
 👋 I'm a self-taught software developer.
 
@@ -25,6 +24,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height=50>](#) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height=50>](#)  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height=50>](#) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height=50>](#)
 
 ---
+![Visitors](https://api.visitorbadge.io/api/visitors?path=zhekoginev&label=visitors&labelColor=%23595959&countColor=%2347c119&style=flat)
 <br><br><br>
 ![Zheko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhekoGinev&show_icons=true&hide=contribs,prs,issues)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhekoginev&layout=compact)](#)
 
