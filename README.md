@@ -6,7 +6,7 @@
 
 🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=17>](https://www.bostondynamics.com/)
 
-🛠️ I’m currently focused on Back-end Web Development and strengthening my fundamentals in OOP and DSA.<br><br>
+🛠️ I’m currently doing a DevOps internship, focusing more on pipelines and automation.<br><br>
 
 | __Wanna say hi? Hit me up on__ |
 | ----------------------------------- |
