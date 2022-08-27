@@ -6,7 +6,7 @@
 
 🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=17>](https://www.bostondynamics.com/)
 
-🛠️ I’m currently doing a DevOps internship, focusing more on Deployment, CI/CD pipelines and Automation.<br><br>
+🛠️ I’m currently doing a DevOps internship, working with Terraform, Docker, Azure DevOps and various other technologies in an Agile team.<br><br>
 
 | __Wanna say hi? Hit me up on__ |
 | ----------------------------------- |
