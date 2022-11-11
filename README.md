@@ -6,7 +6,7 @@
 
 🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=17>](https://www.bostondynamics.com/)
 
-🛠️ I’m currently working in DevOps with focus on Linux, Docker, Jenkins and Ansible<br><br>
+🛠️ I’m currently working in DevOps with focus on Linux, Docker, Jenkins and Ansible.<br><br>
 
 | __Wanna say hi? Hit me up on__ |
 | ----------------------------------- |
