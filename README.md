@@ -2,7 +2,7 @@
 
 👋 I'm a self-taught software developer.
 
-🔥 Interested in back-end development, automation, data science and AI.
+🔥 Interested in back-end development, automation and AI.
 
 🤖 Ok, I admit it.. I want to build robots like [<img src="https://github.com/ZhekoGinev/ZhekoGinev/blob/main/images/BS_logo_minimal.png" height=17>](https://www.bostondynamics.com/)
 
