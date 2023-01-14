@@ -25,6 +25,7 @@
 -->
 ---
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=zhekoginev&label=visitors&labelColor=%23595959&countColor=%2347c119&style=flat)
-<br><br><br>
-![Zheko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhekoGinev&show_icons=true&hide=contribs,prs,issues)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhekoginev&layout=compact)](#)
+<br><br><br>  
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhekoginev&layout=compact)](#)  
 
+<!-- [![Zheko's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ZhekoGinev&show_icons=true&hide=contribs,prs,issues)](#) -->
